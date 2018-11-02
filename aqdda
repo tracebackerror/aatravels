@@ -1,0 +1,73 @@
+[33mcommit 89bc59b000c6f209a76ca7e1f702ae159652fcdf[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: tracebackerror <shivam9172@gmail.com>
+Date:   Tue Oct 30 03:21:09 2018 +0530
+
+    Update templates/home/index.html
+
+[33mcommit 1bdbe27f4f622621bafbeb8dccd94f04e8112ab1[m
+Author: tracebackerror <shivam9172@gmail.com>
+Date:   Tue Oct 30 03:18:49 2018 +0530
+
+    logo
+
+[33mcommit 3be771761c8088aeb5124dc132a22234f4e15779[m
+Author: tracebackerror <shivam9172@gmail.com>
+Date:   Tue Oct 30 03:12:02 2018 +0530
+
+    redundant files removal
+
+[33mcommit f11a31ea23b577d3b4a0cb7b0b5fa50bb93c6ac6[m
+Author: tracebackerror <shivam9172@gmail.com>
+Date:   Tue Oct 30 03:09:10 2018 +0530
+
+    CollectStatic
+
+[33mcommit 25706d11bd834c7b884a8af9dc905e67f5e4233c[m
+Author: tracebackerror <shivam9172@gmail.com>
+Date:   Tue Oct 30 03:07:57 2018 +0530
+
+    Collect Static
+
+[33mcommit 895e0bb439da89053b2e44953644b40cda0df94a[m
+Author: tracebackerror <shivam9172@gmail.com>
+Date:   Tue Oct 30 03:02:50 2018 +0530
+
+    Update rooftech/settings.py
+
+[33mcommit c9e474f71c8d0d25251355966646cb0bda58a0a7[m
+Author: tracebackerror <shivam9172@gmail.com>
+Date:   Tue Oct 30 03:00:45 2018 +0530
+
+    Update Procfile
+
+[33mcommit 536ba9b7227d1a437cf926c2f178a7339cbfc160[m
+Author: tracebackerror <shivam9172@gmail.com>
+Date:   Tue Oct 30 03:00:08 2018 +0530
+
+    Update requirements.txt
+
+[33mcommit d960db4915a5a72f7520fccdcb23d4488f10c727[m
+Author: tracebackerror <shivam9172@gmail.com>
+Date:   Tue Oct 30 02:42:06 2018 +0530
+
+    Git Keep
+
+[33mcommit bc5290380e3d5c48da6411ec7b15b0893d8c5e7b[m
+Author: tracebackerror <shivam9172@gmail.com>
+Date:   Tue Oct 30 02:39:41 2018 +0530
+
+    Collect Static
+
+[33mcommit 3f24ffd526bc4012df70484005873b7722a56235[m
+Author: tracebackerror <shivam9172@gmail.com>
+Date:   Tue Oct 30 02:29:07 2018 +0530
+
+    Fix For psycopg2
+    
+     Error: could not determine PostgreSQL version from '10.4'
+
+[33mcommit e18adfad822ecda113ddb19737ab8c6e99760ce8[m
+Author: tracebackerror <shivam9172@gmail.com>
+Date:   Tue Oct 30 02:23:22 2018 +0530
+
+    Initial Commit
